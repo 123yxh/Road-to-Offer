@@ -84,7 +84,7 @@
 | 云知声 | ASR、TTS、NLP、语音交互 | https://www.unisound.com/careers | 官网“加入我们”直达入口 |
 | 思必驰 | 语音识别、语音合成、NLP、端侧 AI | https://www.aispeech.com/ | **官网导航入口**，查招聘 |
 | 生数科技 | 视频生成、多模态、视觉、AI 工程 | https://www.shengshu-ai.com/ | **官网导航入口**，查加入我们 |
-| 爱诗科技 | 视频生成、多模态、AI 应用开发 | https://www.aishikeji.com/ | **待核实线索**：本次访问未成功，不计入可正常访问的招聘入口 |
+| 爱诗科技 | 视频生成、多模态、AI 应用开发 | https://aisphere.jobs.feishu.cn/join |**官网导航入口** |
 
 ## 四、通信设备、手机、终端与服务器
 
@@ -96,8 +96,8 @@
 | OPPO | 影像、CV、语音、大模型、端侧 AI | https://careers.oppo.com/ | 筛选应届生校招全职岗位 |
 | vivo | 图像算法、语音、端侧 AI、大模型 | https://hr.vivo.com/ | 校招入口 |
 | 荣耀 | 影像、系统 AI、智能体、端侧模型 | https://career.honor.com/ | 筛选应届生校招全职岗位 |
-| 联想 | AI 应用、计算机视觉、AI PC、软件开发 | https://jobs.lenovo.com/ | 本次技术访问失败；手动核实后筛选 China、Graduate/Entry Level、Full time |
-| 浪潮 | AI 软件、模型部署、数据、智能计算 | https://career.inspur.com/ | **待核实入口**：本次访问未成功，可从集团官网重新找人才招聘 |
+| 联想 | AI 应用、计算机视觉、AI PC、软件开发 | https://jobs.lenovo.com/ | 筛选 China、Graduate/Entry Level、Full time |
+| 浪潮 | AI 软件、模型部署、数据、智能计算 | http://career.inspur.com/campus2027/index.html | 集团官网人才招聘 |
 
 ## 五、机器人、无人机与智能硬件
 
@@ -117,11 +117,11 @@
 
 | 单位 | 建议搜索方向 | 投递/招聘线索入口 | 使用说明 |
 | --- | --- | --- | --- |
-| 小鹏汽车 | 感知、预测、规划、控制、端到端、大模型 | https://job.xiaopeng.com/ | 本次技术访问未成功；需手动重查应届生校招入口 |
+| 小鹏汽车 | 感知、预测、规划、控制、端到端、大模型 | https://xiaopeng.jobs.feishu.cn/campus | 应届生校招入口 |
 | 理想汽车 | 智驾、视觉、多模态、AI 应用 | https://www.lixiang.com/employ/campus.html | 校招入口，以当前页面跳转为准 |
 | 蔚来 | 智驾、感知、规划、座舱 AI、数据 | https://nio.jobs.feishu.cn/campus | 校招入口，页面若变更从官网招聘重新进入 |
 | 比亚迪 | 智驾、图像、控制、数据、智能制造 | https://job.byd.com/ | 搜索时同时查研发、软件、算法等分类 |
-| 吉利 | 智驾、座舱 AI、数据算法、智能制造 | https://job.geely.com/ | 本次技术访问未成功；需从集团官网重查 |
+| 吉利 | 智驾、座舱 AI、数据算法、智能制造 | https://campus.geely.com/campus-recruitment/geely/102225#/jobs | 集团校招官网 |
 | 文远知行 | 自动驾驶感知、预测、规划、仿真 | https://www.weride.ai/careers | 官网 Careers 入口，选择正式全职岗位并核对经验 |
 | 小马智行 | 自动驾驶、感知、规划、机器学习 | https://www.pony.ai/ | **官网导航入口**，查 Careers |
 | Momenta | 自动驾驶、多模态、数据闭环、深度学习 | https://www.momenta.cn/join.html | 官网“加入我们”入口 |
@@ -136,14 +136,14 @@
 | --- | --- | --- | --- |
 | 汇川技术 | 机器视觉、控制、工业 AI、机器人、优化 | https://www.inovance.com/ | **官网导航入口**，查加入汇川/人才招聘 |
 | 美的集团 | AI 应用、工业视觉、智能家居、运筹优化 | https://careers.midea.com/ | 招聘系统，选择应届生校园招聘 |
-| 海尔 | 工业 AI、视觉、智能家居、数据算法 | https://job.haier.com/ | 本次技术访问未成功；需从集团官网重查 |
+| 海尔 | 工业 AI、视觉、智能家居、数据算法 | https://maker.haier.net/client/campus/index | 集团官网重查 |
 | 海康威视 | CV、图像、多模态、边缘 AI、算法部署 | https://campushr.hikvision.com/ | 校园招聘系统，本次返回校园招聘页面；进入后核对当届全职职位 |
 | 大华股份 | 视觉、视频分析、图像、端侧 AI | https://job.dahuatech.com/#/page | 官网“大华招聘”所链接的系统 |
 | 中控技术 | 工业 AI、时序、控制优化、工业软件 | https://www.supcon.com/join#zhaopinrukou | 官网加入我们页的招聘入口区 |
 | 三一集团 | 机器视觉、无人化、控制、工业数据 | https://sanycampus.zhiye.com/ | 官方网站明确链接的校园招聘系统 |
 | 徐工集团 | 无人化、感知、控制、智能制造 | https://www.xcmg.com/aboutus/job_center.htm | 官网人才招聘页 |
 | 博世 Bosch | 视觉、智能驾驶、工业 AI、数据、软件 | https://jobs.bosch.com/ | 筛选 China、Graduate/Entry Level、Full time |
-| 西门子 | 工业 AI、数字孪生、优化、工业软件 | https://jobs.siemens.com/ | 全球系统，本次技术访问失败；筛选 China，不要混淆西门子医疗 |
+| 西门子 | 工业 AI、数字孪生、优化、工业软件 | https://www.siemens.com/zh-cn/company/jobs/campus-recruiting/| 全球系统；筛选 China，不要混淆西门子医疗 |
 
 ## 八、医疗器械、医疗 AI 与 AI 制药
 
@@ -164,14 +164,14 @@
 | 单位 | 建议搜索方向 | 投递/招聘入口 | 使用说明 |
 | --- | --- | --- | --- |
 | 招商银行 | AI 研发、数据、风控、智能客服、科技研发 | https://career.cmbchina.com/ | 官网招聘入口；若调整，从 https://www.cmbchina.com/ 的人才招聘进入 |
-| 微众银行 | 机器学习、风控、联邦学习、数据、AI 应用 | https://careers.webank.com/ | 本次访问未成功，需从银行官网重查人才招聘 |
-| 平安集团 | 风控、CV、NLP、保险科技、医疗 AI | https://recruit.pingan.com/ | 本次访问未成功，需从集团官网重查人才招聘 |
+| 微众银行 | 机器学习、风控、联邦学习、数据、AI 应用 | https://app-tc.mokahr.com/campus-recruitment/webankhr/20060#/jobs | 银行校招官网 |
+| 平安集团 | 风控、CV、NLP、保险科技、医疗 AI | https://campus.pingan.com/ | 集团官网校招官网 |
 | 蚂蚁集团 | 风控、机器学习、图算法、大模型应用 | https://talent.antgroup.com/ | 招聘入口，届别和业务以页面为准 |
 | 度小满 | 风控、反欺诈、推荐、NLP、大模型应用 | https://www.duxiaoman.com/ | **官网导航入口**，查加入我们 |
 | 中国工商银行 | 金融科技、信息科技、数据、AI 应用 | https://job.icbc.com.cn/ | 检索总行科技部门、软件开发及数据相关机构 |
 | 中国建设银行 | 金融科技、研发、数据、智能风控 | https://job.ccb.com/ | 不要把普通业务岗当成 AI 岗 |
 | 中国银行 | 信息科技、数据、模型、软件研发 | https://www.boc.cn/aboutboc/bi4/ | **后续补录/春招观察渠道**：已核实的 2027 届原批次于 2026-10-09 截止，不再列作当前可投 |
-| 建信金融科技 | AI 应用、数据、金融软件、测试开发 | https://www.ccbft.com/ | **待核实线索**：本次访问未成功，建议从建设银行招聘公告核对 |
+| 建信金融科技 | AI 应用、数据、金融软件、测试开发 | https://wealth.ccb.com/cn/job/plan_index.html?planType=XY | 建设银行招聘官网 |
 | 兴业银行 | 金融科技、数据、AI 应用、科技研发 | https://job.cib.com.cn/ | 检索总行、科技相关岗位 |
 | 兴业数金 | AI 应用、数据、金融软件、测试开发 | https://www.cibfintech.com/opencms/export/cibfintech/campus.html | **历史页面，待更新**：虽可打开，正文仍写 2022 届，不能作为 2027 届有效招聘依据 |
 
@@ -183,10 +183,10 @@
 | --- | --- | --- | --- |
 | 中国移动 | AI、数据、通信算法、云、智能网络 | https://job.10086.cn/ | 检索研究院、各省公司及专业子公司 |
 | 中国电信 | 大模型、AI、云、数据、智能网络 | https://job.chinatelecom.com.cn/ | 集团入口；资格以每份校招公告为准 |
-| 中国联通 | AI、数据、网络智能化、软件研发 | https://job.10010.com/ | 本次访问未成功；从集团官网核对最新招聘入口 |
-| 国家电网 | 电力 AI、负荷预测、调度优化、数据、软件 | https://zhaopin.sgcc.com.cn/ | 本次返回 412，可能需正常浏览器访问；专业、考试及批次限制需核对 |
+| 中国联通 | AI、数据、网络智能化、软件研发 | https://www.chinaunicom.com.cn/46/menu01/528/column06 | 集团入口 |
+| 国家电网 | 电力 AI、负荷预测、调度优化、数据、软件 | https://zhaopin.sgcc.com.cn/ | 招聘官网 |
 | 南方电网 | AI、预测、优化、电网数字化、数据 | https://zhaopin.csg.cn/ | 官方招聘平台，逐单位核对岗位和专业 |
-| 宁德时代 | 电池数据、机器学习、寿命预测、工业视觉 | https://talent.catl.com/social-recruitment/catlhr/96144/#/ | 官网当前“加入我们”指向**社招**；目标页本次访问未成功。学生须另找校招分类，不投经验不符岗位 |
+| 宁德时代 | 电池数据、机器学习、寿命预测、工业视觉 | https://talent.catl.com/social-recruitment/catlhr/96144/ |含校招 |
 | 阳光电源 | 预测、优化、控制、能源数据、软件 | https://www.sungrowpower.com/employeebrand.html | 官网“加入阳光”入口 |
 | 中国石化 | 数据、智能化、工业软件、研究开发 | https://job.sinopec.com/ | 集团招聘平台；仅投职责和专业明确匹配的岗位 |
 
@@ -205,9 +205,9 @@
 
 | 单位 | 建议搜索方向 | 投递/招聘线索入口 | 使用说明 |
 | --- | --- | --- | --- |
-| 金山办公 WPS | AI 应用、文档理解、NLP、Agent、软件开发 | https://join.wps.cn/ | 本次访问未成功；需从 WPS/金山办公官网重查校招入口 |
+| 金山办公 WPS | AI 应用、文档理解、NLP、Agent、软件开发 | https://join.wps.cn/ | WPS/金山办公官网重查校招入口 |
 | 用友 | 企业 AI、知识库、Agent、数据、软件研发 | https://career.yonyou.com/SU67ac41886202cc7916ae3029/pb/index.html | 官网“加入用友”当前跳转的 HTTPS 招聘系统；选择应届生校招 |
-| 金蝶 | 企业 AI、智能体、数据、软件研发 | https://app.mokahr.com/campus-recruitment/kingdeehr/166565?locale=zh-CN | 官网明确链接的校招系统，但目标页本次技术访问未成功；可回 https://www.kingdee.com/ 重进 |
+| 金蝶 | 企业 AI、智能体、数据、软件研发 | https://app.mokahr.com/campus-recruitment/kingdeehr/166565?locale=zh-CN | 官网明确链接的校招系统 |
 | 深信服 | 安全 AI、异常检测、数据、AI 软件 | https://hr.sangfor.com/ | 招聘系统，筛选应届生校园招聘 |
 | 中科创达 | 端侧 AI、智能汽车、视觉、软件开发 | https://thundersoft.jobs.feishu.cn/campus | 校招正文的投递链接；资格与来源见前面的优先查看表 |
 | 软通动力 | AI 应用、大模型工程、数据、软件开发 | https://career.isoftstone.com/talent/htmls/xiaoyuanzhaopin/index.html | 官网校园招聘页，列出 2027 届招聘简章入口；逐岗核对用工与项目情况 |
@@ -222,7 +222,7 @@
 | 网易游戏 | 游戏 AI、强化学习、AIGC、动画、视觉 | https://hr.game.163.com/ | 与网易主招聘站属于同一集团，不算两个独立雇主 |
 | 米哈游 | 游戏 AI、AIGC、动画、视觉、研发 | https://jobs.mihoyo.com/ | 筛选应届生校园招聘 |
 | 莉莉丝 | 游戏 AI、AIGC、数据、研发 | https://www.lilith.com/ | **官网导航入口**，查加入我们 |
-| 三七互娱 | 游戏 AI、AIGC、数据、算法工程 | https://hr.37.com/ | 本次访问未成功，需从集团官网重新确认招聘入口 |
+| 三七互娱 | 游戏 AI、AIGC、数据、算法工程 | https://zhaopin.37.com/ | 集团官网 |
 
 ## 十四、研究院与实验室
 
@@ -243,8 +243,8 @@
 
 | 单位 | 建议搜索方向 | 投递/招聘线索入口 | 使用说明 |
 | --- | --- | --- | --- |
-| 寒武纪 | AI 编译器、算子、模型优化、推理、软件 | https://app.mokahr.com/campus-recruitment/cambricon/44201 | 官网明确给出的校招系统，但目标页本次访问未成功；可回 https://www.cambricon.com/ 重进 |
-| 摩尔线程 | GPU 软件、AI 框架、算子、推理优化 | https://www.moorethreads.com/ | **官网线索**：本次访问未成功，招聘入口待重查 |
+| 寒武纪 | AI 编译器、算子、模型优化、推理、软件 | https://app.mokahr.com/campus-recruitment/cambricon/44201 | 官网明确给出的校招系统 |
+| 摩尔线程 | GPU 软件、AI 框架、算子、推理优化 |https://mthreads.zhiye.com/campus | **官网线索** |
 | 壁仞科技 | GPU 软件、编译器、AI 框架、模型部署 | https://www.birentech.com/join/ | 人才入口，以当前页面跳转为准 |
 | 沐曦 | GPU 软件、编译器、AI 计算、算子 | https://www.metax-tech.com/join.html | 官网“加入沐曦股份”入口 |
 | NVIDIA | 深度学习、CUDA、推理、AI 软件 | https://www.nvidia.com/en-us/about-nvidia/careers/ | 筛选 China、New College Graduate、Full time |
@@ -259,9 +259,9 @@
 | 渠道 | 网址 | 建议用法 |
 | --- | --- | --- |
 | 国家大学生就业服务平台 | https://www.ncss.cn/ | 搜算法、人工智能、软件开发；看应届条件、招聘会和岗位详情 |
-| 中国公共招聘网 | https://job.mohrss.gov.cn/ | 本次技术访问未成功，可从人社部官网核对公共招聘服务入口 |
+| 中国公共招聘网 | http://job.mohrss.gov.cn/ | 公共招聘服务入口 |
 | 国聘 | https://www.iguopin.com/ | 补查央国企、研究院、制造企业；核对公告和网申截止时间 |
-| 中国国家人才网 | https://www.newjobs.com.cn/ | 本次访问未成功；仅作为补充线索，按原单位公告投递 |
+| 中国国家人才网 | https://www.newjobs.com.cn/ | 官方投递通道 |
 | 牛客 | https://www.nowcoder.com/ | 从首页进入求职/招聘板块；旧 `/jobs` 路径本次已显示不存在，不再推荐 |
 | BOSS 直聘 | https://www.zhipin.com/ | 找中小企业、行业 AI 应用开发；核对公司主体及岗位经验要求 |
 | 智联招聘 | https://www.zhaopin.com/ | 补查制造、医疗、工业软件及地方企业 |
@@ -270,7 +270,7 @@
 | 猎聘 | https://www.liepin.com/ | 检索初级全职/校招岗位，注意大量职位要求工作经验 |
 | 学校就业信息网 | 本校及目标城市高校的官方就业网站 | 用 `学校名 就业信息网 AI 算法 招聘` 检索；宣讲公告常有单位官方网申链接 |
 
-## 十七、给老师的分发与跟进建议
+## 十七、分发与跟进建议
 
 ### 1. 每人先建立三组投递池
 
